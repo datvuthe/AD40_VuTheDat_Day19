@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:title="Thêm liên hệ"
+    android:id="@+id/menuThem"
+    />
+    <item android:title="xoá liên hệ"
+        android:id="@+id/menuXoa"/>
+    <item android:title="Sửa liên hệ"
+        android:id="@+id/menuSua"/>
+</menu>
